@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a1f9938.css",
+    "main.js": "/static/js/main.238acce1.js",
+    "static/media/video-1.mp4": "/static/media/video-1.5c1d1d6c955383695952.mp4",
+    "static/media/customer.jpg": "/static/media/customer.5ee6419f6a1c69d895ca.jpg",
+    "static/media/owner.jpg": "/static/media/owner.4ca2e4a19c255c99bb3e.jpg",
+    "static/media/chef.jpg": "/static/media/chef.4efaad2db018f6eda973.jpg",
+    "static/media/souschef.jpg": "/static/media/souschef.a8a2d9a25bfa9f691acc.jpg",
+    "static/media/crew.jpg": "/static/media/crew.addc459cfba8fa09fbd0.jpg",
+    "static/media/menuotd.jpg": "/static/media/menuotd.6d1f6c9a39e367b3f5bd.jpg",
+    "static/media/openinghours.jpg": "/static/media/openinghours.e6808cc46e24d10d569e.jpg",
+    "static/media/background.jpg": "/static/media/background.1da7cb0c85803573d795.jpg",
+    "static/media/gatopiment.jpeg": "/static/media/gatopiment.c38e83f95e47bf221969.jpeg",
+    "static/media/newsletter.jpeg": "/static/media/newsletter.a38bc00dc8e771a1db87.jpeg",
+    "static/media/mylogo.svg": "/static/media/mylogo.0ecbe9c446b8ea37a78d85ec389309c5.svg",
+    "index.html": "/index.html",
+    "main.5a1f9938.css.map": "/static/css/main.5a1f9938.css.map",
+    "main.238acce1.js.map": "/static/js/main.238acce1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a1f9938.css",
+    "static/js/main.238acce1.js"
+  ]
+}
